@@ -15,7 +15,7 @@ Hope you'll like it :)
 
 # Screenshots:
 
-<img src="/screenshot/Screenshot1.png"/>
-<img src="/screenshot/Screenshot2.png"/>
-<img src="/screenshot/Screenshot3.png"/>
-<img src="/screenshot/Screenshot4.png"/>
+<img src="/screenshots/Screenshot1.png"/>
+<img src="/screenshots/Screenshot2.png"/>
+<img src="/screenshots/Screenshot3.png"/>
+<img src="/screenshots/Screenshot4.png"/>
